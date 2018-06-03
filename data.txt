@@ -1,3 +1,3 @@
 Name: Paula
 Age: 19
-Favorite Color: Yellow
+Favorite Color: Blue
